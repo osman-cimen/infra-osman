@@ -9,6 +9,9 @@
 
 .
 Kubernetes Cluster yapısı için;
+
+Ubuntu 22.04
+
 Kaynak Planlaması:
 Node Tipi	Adet CPU	RAM	       Disk
 Master	     3	  2	   2-4 GB	  20 GB
